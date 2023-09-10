@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Orel, A Fullstack JS and Python Developer
 - 👀 I’m interested in Web Development, Desktop App Development
-- 🌱 I’m currently learning Fullstack JS Web Development
 - 📫 How to reach me orel450@gmail.com
 
 # 🔧 Technologies & Tools
