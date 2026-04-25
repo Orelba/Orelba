@@ -1,14 +1,15 @@
-- 👋 Hi, I’m Orel, A Fullstack JS and Python Developer
-- 👀 I’m interested in Web Development.
+- 👋 Hi, I’m Orel — a Full-Stack Developer (TypeScript, JavaScript, Python)
+- 👀 Web development enthusiast building modern applications and bootstrapped projects
+- 🔍 Currently seeking new opportunities
 
 # 🔧 Technologies & Tools
 
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48"
-        height="48" alt="JavaScript" />
-      <br /><strong>JavaScript</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48"
+        height="48" alt="TypeScript" />
+      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"
@@ -31,7 +32,7 @@
       <br /><strong>Sass</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://mantine.dev/_next/static/media/mantine-logo.075997af.svg" width="48" height="48"
+      <img src="https://avatars.githubusercontent.com/u/79146003?s=200&v=4" width="48" height="48"
         alt="Mantine" />
       <br /><strong>Mantine</strong>
     </td>
