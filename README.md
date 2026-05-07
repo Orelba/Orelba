@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Orel — a Full-Stack Developer (TypeScript, JavaScript, Python)
+- 👋 Hi, I’m Orel - a Full Stack Developer (TypeScript, JavaScript, Python)
 - 👀 Web development enthusiast building modern applications and bootstrapped projects
 - 🔍 Currently seeking new opportunities
 
